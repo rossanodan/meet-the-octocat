@@ -1,0 +1,6 @@
+1. Clone this repository
+2. Create a branch (e.g. rossanodan-uda)
+3. Create a .txt file (e.g. rossanodan.txt) and write your name in it
+4. Push your changes
+5. Link the local new branch to a new remote branch
+6. Create a pull request
