@@ -1,5 +1,5 @@
 # Meet the Octocat
 
-![Octocat](./octocat.png)
+![Octocat](./images/octocat.png)
 
 Built with [Build your own octocat](https://myoctocat.com/).
