@@ -31,7 +31,7 @@ git branch rossanodan-uda
 git checkout rossanodan-uda
 ```
 
-![](./images/vscode-1.png)
+![Creating a new branch](./images/vscode-1.png)
 
 ---
 
@@ -55,12 +55,12 @@ or
 git add path/to/specific/file.txt
 ```
 
-![](./images/vscode-2.png)
-![](./images/vscode-3.png)
+![Pushing changes](./images/vscode-2.png)
+![Pushing changes](./images/vscode-3.png)
 
 If you need to discard your changes
 
-![](./images/vscode-4.png)
+![Pushing changes](./images/vscode-4.png)
 
 then
 
@@ -68,7 +68,7 @@ then
 git commit -m "rossanodan-uda: hello, there"
 ```
 
-![](./images/vscode-7.png)
+![Pushing changes](./images/vscode-7.png)
 
 and finally
 
@@ -76,11 +76,11 @@ and finally
 git push
 ```
 
-![](./images/vscode-8.png)
+![Pushing changes](./images/vscode-8.png)
 
 If you need to undo the last commit
 
-![](./images/vscode-9.png)
+![Pushing changes](./images/vscode-9.png)
 
 If this branch doesn't exist in the remote repository, GIT will ask you to create it with a specific command
 
@@ -121,3 +121,7 @@ Or simply for a discussion that may involve more people in the team!
 ![Merging a pull request](./images/merge-pr-1.png)
 ![Merging a pull request](./images/merge-pr-2.png)
 ![Merging a pull request](./images/merge-pr-3.png)
+
+### Visual Studio Code fully integrated with GitHub
+
+![Visual Studio Code fully integrated with GitHub](./images/vscode-10.gif)
