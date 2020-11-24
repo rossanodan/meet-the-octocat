@@ -122,6 +122,12 @@ Or simply for a discussion that may involve more people in the team!
 ![Merging a pull request](./images/merge-pr-2.png)
 ![Merging a pull request](./images/merge-pr-3.png)
 
-### Visual Studio Code fully integrated with GitHub
+### GitHub extension for Visual Studio Code
+
+Install the extension
+
+![GitHub extension for Visual Studio Code](./images/github-extension.png)
+
+and explore the list of things you can do directly from Visual Studio Code. You just need to authenticate with your GitHub credentials
 
 ![Visual Studio Code fully integrated with GitHub](./images/vscode-10.gif)
