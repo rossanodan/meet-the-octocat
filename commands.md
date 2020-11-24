@@ -131,3 +131,7 @@ Install the extension
 and explore the list of things you can do directly from Visual Studio Code. You just need to authenticate with your GitHub credentials
 
 ![Visual Studio Code fully integrated with GitHub](./images/vscode-10.gif)
+
+If you don't know how to manage extensions on Visual Studio Code, [visit the documentation](https://code.visualstudio.com/docs/editor/extension-gallery) to learn more.
+
+![Enjoy!](https://media.giphy.com/media/TfjpIFjOovgqE0rjJK/giphy.gif)
