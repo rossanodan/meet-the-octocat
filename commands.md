@@ -31,6 +31,8 @@ git branch rossanodan-uda
 git checkout rossanodan-uda
 ```
 
+![](./images/vscode-1.png)
+
 ---
 
 ### Listing all branches
@@ -53,17 +55,32 @@ or
 git add path/to/specific/file.txt
 ```
 
+![](./images/vscode-2.png)
+![](./images/vscode-3.png)
+
+If you need to discard your changes
+
+![](./images/vscode-4.png)
+
 then
 
 ```
 git commit -m "rossanodan-uda: hello, there"
 ```
 
+![](./images/vscode-7.png)
+
 and finally
 
 ```
 git push
 ```
+
+![](./images/vscode-8.png)
+
+If you need to undo the last commit
+
+![](./images/vscode-9.png)
 
 If this branch doesn't exist in the remote repository, GIT will ask you to create it with a specific command
 
