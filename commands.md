@@ -13,8 +13,9 @@ git clone https://github.com/rossanodan/meet-the-octocat.git
 
 ### Forking a repository
 
-What does it mean?
-Why we do fork?
+Forking a repo means making a copy of it for yourself, which you are able to apply changes to. It's useful when you want to contribute to a repository and you don't have write permissions.
+
+Learn more on the [official documentation](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
 
 ---
 
